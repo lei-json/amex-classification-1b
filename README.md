@@ -63,7 +63,6 @@ streamlit run app.py
 - Our host company, American Express, challenged us to build a credit score classification model using a custom built dataset. The goal of the project was not only to create an accurate model, but to help us understand how the full Machine Learning pipeline is developed in industry, from data cleaning and feature engineering to model training, evaluation, and optimization. With guidance from our Challenge Advisor, Saurabh Gupta, we were able to explore real data considerations, choose meaningful features, handle skewed distributions, and evaluate our model responsibly. 
 - Credit scoring plays a major role in determining who has access to financial services, credit card approval, loan offers, and interest rates. Improving how credit scores are analyzed and predicted can help companies better assess risk and extend fair, responsible credit to customers. By identifying key features that strongly influence credit categories—such as income, payment behavior, and occupation—our work supports the development of more data-driven decision tools. While our project is exploratory, it provides insights that can help refine future models, improve customer evaluation practices, and make financial assessments more transparent.
 
-
 ---
 
 ## 📊 **Data Exploration**
@@ -72,7 +71,6 @@ streamlit run app.py
 - Many numerical features were right-skewed, so we relied more on median based analysis to reduce the impact of outliers.
 - Key EDA insight: income, occupation, and payment behavior showed strong relationships with credit score categories.
 - Challenges: Handling skewed distributions, deciding which features to remove, and working with incomplete data.
-
 
 ---
 
@@ -90,7 +88,6 @@ streamlit run app.py
 - Achieved ~75% accuracy in classifying customer credit score categories.
 - Income, occupation, and payment behavior contributed most to model predictions.
 
-
 ---
 
 
@@ -101,11 +98,9 @@ streamlit run app.py
 - Data quality uncertainty: Some entries may be incorrect or extreme outliers, requiring careful consideration.
 - Visualization limits: Plotting 100k+ points affected clarity and analysis precision.
 - Future work: With more time/resources, we would explore ways to increase model accuracy, try additional models or ensemble techniques, and enhance feature engineering to better capture patterns in the data.
+
 ---
 
 ## 🙏 **Acknowledgements**
 
-Thank your Challenge Advisor, host company representatives, TA, and others who supported your project.
-
 We would like to acknowledge our AI Studio Coach Jenna Hunte, Challenge Advisor Saurabh Gupta, Break Through Tech, and American Express for their support throughout this project. Their guidance, mentorship, and resources were instrumental in helping us complete the credit score classification project. 
-
