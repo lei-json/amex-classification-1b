@@ -7,13 +7,12 @@
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
 | Jason Lei | @lei-jason | Data exploration, data preprocessing, data augmentation, model building |
-| Sheena Ansari   | @Sheena-Ansari | Data exploration, feature engineering, Hyperparameter tuning
-| Jerry Lin | @NotJerwee | Data preprocessing, feature engineering, streamlit app
-| Wafa Berri   | @wberri13     | Data exploration, data preprocessing, exploratory data analysis (EDA), feature selection|
+| Wafa Berri | @wberri13 | Data exploration, data preprocessing, exploratory data analysis (EDA), feature selection|
 | Allison Romero | @allisonr5002 | Model selection, decision tree, and neural network |
+| Sheena Ansari | @Sheena-Ansari | Data exploration, feature engineering, Hyperparameter tuning |
+| Jerry Lin | @NotJerwee | Data preprocessing, feature engineering, streamlit app
 | Kareem Khusenov | @kareemx17 | Model finetuning, selection, neural network |
-| Kashish Bhandari | @Kashish733 | Model selection, neural networks building and tuning|
-
+| Kashish Bhandari | @Kashish733 | Model selection, neural networks building and tuning |
 
 ---
 
@@ -97,15 +96,16 @@ streamlit run app.py
 
 ## 🚀 **Next Steps**
 
-Giant notebook (~500+ cells) caused lag and slowed workflow.
-Hardware limits: Using only ~20% of the training set, each model run took ~5 minutes.
-Data quality uncertainty: Some entries may be incorrect or extreme outliers, requiring careful consideration.
-Visualization limits: Plotting 100k+ points affected clarity and analysis precision.
-Future work: With more time/resources, we would explore ways to increase model accuracy, try additional models or ensemble techniques, and enhance feature engineering to better capture patterns in the data.
+- Giant notebook (~500+ cells) caused lag and slowed workflow.
+- Hardware limits: Using only ~20% of the training set, each model run took ~5 minutes.
+- Data quality uncertainty: Some entries may be incorrect or extreme outliers, requiring careful consideration.
+- Visualization limits: Plotting 100k+ points affected clarity and analysis precision.
+- Future work: With more time/resources, we would explore ways to increase model accuracy, try additional models or ensemble techniques, and enhance feature engineering to better capture patterns in the data.
 ---
 
-## 🙏 **Acknowledgements** (Optional but encouraged)
+## 🙏 **Acknowledgements**
 
 Thank your Challenge Advisor, host company representatives, TA, and others who supported your project.
+
 We would like to acknowledge our AI Studio Coach Jenna Hunte, Challenge Advisor Saurabh Gupta, Break Through Tech, and American Express for their support throughout this project. Their guidance, mentorship, and resources were instrumental in helping us complete the credit score classification project. 
 
